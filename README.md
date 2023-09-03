@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to work on java development 
-- 📫 How to reach me ancyj9@gmail.com
+- 📫 How to reach me 
 
 <!---
 ancyjoseph14/ancyjoseph14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
